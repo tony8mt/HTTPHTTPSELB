@@ -16,3 +16,5 @@ Webpage that displays the Server Hostname and Instance ID
 HTTP-HTTPS redirection
 
 Connection Test to Database
+
+Enabling Puppet agent
