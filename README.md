@@ -6,3 +6,10 @@ Instructions
 ============
 
 User should provide Puppet server Hostname and IP address so that Webserver will be act as agents to the Puppet server for any further deployment. 
+
+Functions
+=========
+HA HTTP servers
+Webpage that displays the Server Hostname and Instance ID
+HTTP-HTTPS redirection
+Connection Test to Database
